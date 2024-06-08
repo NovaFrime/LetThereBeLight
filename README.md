@@ -1,7 +1,3 @@
-Here’s an enhanced version of your README for the "Let There Be Light" game, providing a more structured, informative, and appealing presentation:
-
----
-
 # Let There Be Light
 
 **Let There Be Light** is a captivating 2D Roguelike game crafted for **Mini Jam 160: Light** and also as a part of an Object-Oriented Programming (OOP) class project. Dive into a world where light is your ally and navigate through procedurally generated dungeons teeming with darkness and danger.
