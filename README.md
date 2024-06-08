@@ -73,7 +73,12 @@ Enjoy the journey through the light and dark in **Let There Be Light**!
 
 ### Additional Suggestions:
 
-1. **Screenshots and Gameplay GIFs**: Include images or animations to showcase the game’s visuals and mechanics.
-2. **Detailed Description**: Provide more information about the story, setting, and gameplay mechanics.
-3. **Developer Notes**: If applicable, add a section about the development process or challenges faced.
-4. **FAQs**: Address common questions about the game’s installation, gameplay, and troubleshooting.
+1. **Screenshots and Gameplay GIFs**:
+- Let me sleep.  
+2. **Detailed Description**:
+- Not now.
+3. **Developer Notes**: 
+- Learning about thread and fps is harder than I thought, by manually manipulate the frame rate with multiple variables, smoother gameplay is achieved.
+4. **FAQs**: 
+- Q: Did you use AI when creating the game? A: Yes I do use AI in the process of making this game, as well as other source of knowledge.
+- Q: Where did you learn all of this ? A: From youtube, such as [Java 2D Game Programming - TheZeroDoctor](https://www.youtube.com/playlist?list=PLvJM9qNXoUYUDaDo_yfSKgn5dYnMmdN8B) - this series was made in 2018, all about fundamental concept and technique, stack overflow, also from AI too.
